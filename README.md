@@ -1,5 +1,6 @@
 File models.py:
 This file defines the structure of the JSON data the API expects.
+
 File recommendation.py:
 This file contains the logic to process the incoming JSON data and generate trip recommendations.
 
